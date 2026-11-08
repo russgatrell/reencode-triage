@@ -1,0 +1,7 @@
+.venv/
+output/
+probe_cache.sqlite
+reencode_report.csv
+__pycache__/
+ui.*.log
+probe_cache.sqlite-*
